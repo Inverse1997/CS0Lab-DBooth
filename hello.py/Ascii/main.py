@@ -10,6 +10,7 @@
     Algorithm steps:
     1. use variables to store data/values
     2. Write a series of print statements to print the data/values to the console
+    ASCII Art Cowboy from b'ger from ASCIIart.eu
 """
 
 print("welcome to ASCII Art Program..\n")
