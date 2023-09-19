@@ -25,7 +25,7 @@ b = int(b)
 print(a + b)
 
 ans = (a + b)
-print(ans)
+print(ans*100)
 
   # FIXED 2: convert string a into integer
   # FIXED 3: convert string b into integer

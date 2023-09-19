@@ -39,3 +39,21 @@
 | Status: | complete |
 | Location: |https://github.com/Inverse1997/CS0Lab-DBooth/blob/main/kattis_problems.py/AddTwoNumbers |
 | Notes: | Tested a million times. I deserve an A.|
+## Assignment #4
+| Name | ekki |
+| --- | --- |
+| Name: |Daniel Booth |
+| Description: | "" |
+| Due Date: |september |
+| Status: | complete |
+| Location: | |
+| Notes: | Tested a million times. I deserve an A.|
+## Assignment #5
+| Name | Functions |
+| --- | --- |
+| Name: |Daniel Booth |
+| Description: | "" |
+| Due Date: |september |
+| Status: | complete |
+| Location: | |
+| Notes: | Tested a million times. I deserve an A.|
