@@ -31,7 +31,7 @@
 
 
 ## Assignment #3
-| Name | Add two Numbers |
+| Name | R2 Add two Numbers |
 | --- | --- |
 | Name: |Daniel Booth |
 | Description: | "Add two numbers and print the ANS" |
@@ -44,16 +44,15 @@
 | --- | --- |
 | Name: |Daniel Booth |
 | Description: | "" |
-| Due Date: |september |
+| Due Date: |september 21st |
 | Status: | complete |
 | Location: | |
 | Notes: | Tested a million times. I deserve an A.|
 ## Assignment #5
-| Name | Functions |
+| Name |Functions |
 | --- | --- |
 | Name: |Daniel Booth |
 | Description: | "" |
-| Due Date: |september |
-| Status: | complete |
+| Due Date: |september 28th |
+| Status: |  |
 | Location: | |
-| Notes: | Tested a million times. I deserve an A.|
