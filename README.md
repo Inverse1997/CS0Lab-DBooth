@@ -37,7 +37,7 @@
 | Description: | "Add two numbers and print the ANS" |
 | Due Date: |september 21st|
 | Status: | complete |
-| Location: |https://github.com/Inverse1997/CS0Lab-DBooth/blob/main/kattis_problems.py/AddTwoNumbers |
+| Location: |https://github.com/Inverse1997/CS0Lab-DBooth/tree/main/R2 |
 | Notes: | Tested a million times. I deserve an A.|
 ## Assignment #4
 | Name | ekki |
@@ -46,7 +46,7 @@
 | Description: | "" |
 | Due Date: |september 21st |
 | Status: | complete |
-| Location: | |
+| Location: | https://github.com/Inverse1997/CS0Lab-DBooth/tree/main/Ekki|
 | Notes: | Tested a million times. I deserve an A.|
 ## Assignment #5
 | Name |Functions |
