@@ -56,5 +56,5 @@
 | Description: | "playing with functions and variable scopes" |
 | Due Date: |September 28th |
 | Status: | Complete |
-| Location: | tested enough times this desrves a AAA|
+| Location: |https://github.com/Inverse1997/CS0Lab-DBooth/blob/main/Functions/functions.py|
 <><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><><><><>><><><>><><><><>
