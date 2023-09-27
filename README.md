@@ -8,7 +8,7 @@
 | GitHub Username: | Inverse1997 |
 | Repository |https://github.com/Inverse1997/CS0Lab-DBooth |
 # ASSIGNMENTS
-
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><><><><>><><><>><><><><>
 ## Assignment #1
 | Name | Helloworld.py |
 | --- | --- |
@@ -18,7 +18,7 @@
 | Status: | complete |
 | Location: |https://github.com/Inverse1997/CS0Lab-DBooth/blob/main/hello.py/Kattis%20Hello.png |
 | Notes: | Tested many times. I deserve an A.|
-
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><><><><>><><><>><><><><>
 ## Assignment #2
 | Name | ASCII Art |
 | --- | --- |
@@ -28,8 +28,7 @@
 | Status: | complete |
 | Location: |https://github.com/Inverse1997/CS0Lab-DBooth/blob/main/hello.py/Ascii/main.py |
 | Notes: |I made a cowboy!|
-
-
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><><><><>><><><>><><><><>
 ## Assignment #3
 | Name | R2 Add two Numbers |
 | --- | --- |
@@ -39,6 +38,7 @@
 | Status: | complete |
 | Location: |https://github.com/Inverse1997/CS0Lab-DBooth/tree/main/R2 |
 | Notes: | Tested a million times. I deserve an A.|
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><><><><>><><><>><><><><>
 ## Assignment #4
 | Name | ekki |
 | --- | --- |
@@ -48,11 +48,13 @@
 | Status: | complete |
 | Location: | https://github.com/Inverse1997/CS0Lab-DBooth/tree/main/Ekki|
 | Notes: | Tested a million times. I deserve an A.|
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><><><><>><><><>><><><><>
 ## Assignment #5
 | Name |Functions |
 | --- | --- |
 | Name: |Daniel Booth |
-| Description: | "" |
-| Due Date: |september 28th |
-| Status: |  |
-| Location: | |
+| Description: | "playing with functions and variable scopes" |
+| Due Date: |September 28th |
+| Status: | Complete |
+| Location: | tested enough times this desrves a AAA|
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><><><><>><><><>><><><><>
