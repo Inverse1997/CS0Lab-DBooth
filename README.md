@@ -58,3 +58,12 @@
 | Status: | Complete |
 | Location: |https://github.com/Inverse1997/CS0Lab-DBooth/blob/main/Functions/functions.py|
 <><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><
+## Assignment #5
+| Name |conditionals/twostones |
+| --- | --- |
+| Name: |Daniel Booth |
+| Description: | "twostones kattis lab" |
+| Due Date: |OCT 5th |
+| Status: | Complete |
+| Location: |https://github.com/Inverse1997/CS0Lab-DBooth/tree/main/conditionals/twostones|
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><
