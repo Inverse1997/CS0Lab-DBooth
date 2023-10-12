@@ -74,5 +74,5 @@
 | Description: | "twostones kattis lab" |
 | Due Date: |OCT 12th |
 | Status: | Complete |
-| Location: ||
+| Location: |https://github.com/Inverse1997/CS0Lab-DBooth/blob/main/odditites/odditites.py|
 <><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><
