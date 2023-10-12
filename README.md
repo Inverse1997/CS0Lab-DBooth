@@ -67,3 +67,12 @@
 | Status: | Complete |
 | Location: |https://github.com/Inverse1997/CS0Lab-DBooth/tree/main/conditionals/twostones|
 <><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><
+## Assignment #6
+| Name |odditties |
+| --- | --- |
+| Name: |Daniel Booth |
+| Description: | "twostones kattis lab" |
+| Due Date: |OCT 12th |
+| Status: | Complete |
+| Location: ||
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><

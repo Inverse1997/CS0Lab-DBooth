@@ -1,8 +1,1 @@
-
-def square_root():
-    number = input("Enter a number: ")
-    number = float(number)
-    ans = square_root(number)
-    print("Square root:", ans)
-    return (ans)
-square_root()
+print("Hello world")
