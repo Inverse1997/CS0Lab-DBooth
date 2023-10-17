@@ -70,9 +70,18 @@
 ## Assignment #6
 | Name |odditties |
 | --- | --- |
-| Name: |Daniel Booth |
-| Description: | "twostones kattis lab" |
-| Due Date: |OCT 12th |
+| Name: | Daniel Booth |
+| Description: | "twostones kattis" |
+| Due Date: | October 12th |
 | Status: | Complete |
 | Location: |https://github.com/Inverse1997/CS0Lab-DBooth/blob/main/odditites/odditites.py|
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><
+## Assignment #7
+| Name | Lists |
+| --- | --- |
+| Name: | Daniel Booth |
+| Description: | "Pet Kattis problem" |
+| Due Date: | October 19th |
+| Status: | Complete |
+| Location: ||
 <><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><
