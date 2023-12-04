@@ -86,3 +86,30 @@
 | Status: | Complete |
 | Location: | https://github.com/Inverse1997/CS0Lab-DBooth/blob/main/Pet/pet.py|
 <><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><
+## Assignment #8
+| Name | Dictionaries |
+| --- | --- |
+| Name: | Daniel Booth |
+| Description: | "Morse Code Palindrome" |
+| Due Date: | Nov. 2nd |
+| Status: | Complete |
+| Location: | |
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><
+## Assignment #9
+| Name | File.io|
+| --- | --- |
+| Name: | Daniel Booth |
+| Description: | "numbers" |
+| Due Date: | Nov. 16th |
+| Status: | Complete |
+| Location: ||
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><
+## Assignment #10
+| Name | file.io2 |
+| --- | --- |
+| Name: | Daniel Booth |
+| Description: | "fileio2" |
+| Due Date: | nov. 24 |
+| Status: | Complete |
+| Location: | |
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><

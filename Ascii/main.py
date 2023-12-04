@@ -62,7 +62,7 @@ print(cowboy)
 String_one = ("-^-")       
 string_two = ("(o_o)")
 String_thr = ("<<|>>")
-string_fou = ("//\\")
+string_fou =  ("//\\")
 
 
 print(String_one)
