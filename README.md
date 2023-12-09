@@ -93,7 +93,7 @@
 | Description: | "Morse Code Palindrome" |
 | Due Date: | Nov. 2nd |
 | Status: | Complete |
-| Location: | |
+| Location: |https://github.com/Inverse1997/CS0Lab-DBooth/tree/main/morsecodepalindromes |
 <><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><>
 ## Assignment #9
 | Name | File.io|
@@ -102,7 +102,7 @@
 | Description: | "numbers" |
 | Due Date: | Nov. 16th |
 | Status: | Complete |
-| Location: ||
+| Location: |https://github.com/Inverse1997/CS0Lab-DBooth/tree/main/fileIo|
 <><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><>
 ## Assignment #10
 | Name | file.io2 |
@@ -111,7 +111,7 @@
 | Description: | "fileio2" |
 | Due Date: | nov. 24th |
 | Status: | Complete |
-| Location: | |
+| Location: | https://github.com/Inverse1997/CS0Lab-DBooth/tree/main/fileio2|
 <><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><>
 ## Assignment #11
 | Name | oop |
@@ -120,5 +120,5 @@
 | Description: | "Classes" |
 | Due Date: | Dec. 8th |
 | Status: | Complete |
-| Location: | |
+| Location: | https://github.com/Inverse1997/CS0Lab-DBooth/tree/main/oop|
 <><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><>
