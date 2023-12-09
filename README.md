@@ -9,7 +9,7 @@
 | Repository |https://github.com/Inverse1997/CS0Lab-DBooth |
 
 # ASSIGNMENTS
-<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><><><><>><><><>><><><><>
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><>
 ## Assignment #1
 | Name | Helloworld.py |
 | --- | --- |
@@ -19,7 +19,7 @@
 | Status: | complete |
 | Location: | https://github.com/Inverse1997/CS0Lab-DBooth/blob/main/hello.py/Kattis%20Hello.png |
 | Notes: | Tested many times. I deserve an A.|
-<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><><><><>><><><>><><><><>
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><>
 ## Assignment #2
 | Name | ASCII Art |
 | --- | --- |
@@ -29,7 +29,7 @@
 | Status: | complete |
 | Location: | https://github.com/Inverse1997/CS0Lab-DBooth/blob/main/hello.py/Ascii/main.py |
 | Notes: |I made a cowboy!|
-<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><><><><>><><><>><><><><>
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><>
 ## Assignment #3
 | Name | R2 Add two Numbers |
 | --- | --- |
@@ -39,7 +39,7 @@
 | Status: | complete |
 | Location: | https://github.com/Inverse1997/CS0Lab-DBooth/tree/main/R2 |
 | Notes: | Tested a million times. I deserve an A.|
-<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><><><><>><><><>><><><><>
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><>
 ## Assignment #4
 | Name | ekki |
 | --- | --- |
@@ -49,7 +49,7 @@
 | Status: | complete |
 | Location: | https://github.com/Inverse1997/CS0Lab-DBooth/tree/main/Ekki|
 | Notes: | Tested a million times. I deserve an A.|
-<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><><><><>><><><>><><><><>
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><>
 ## Assignment #5
 | Name | Functions |
 | --- | --- |
@@ -58,7 +58,7 @@
 | Due Date: |September 28th |
 | Status: | Complete |
 | Location: |https://github.com/Inverse1997/CS0Lab-DBooth/blob/main/Functions/functions.py|
-<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><>
 ## Assignment #5
 | Name | conditionals/twostones |
 | --- | --- |
@@ -67,7 +67,7 @@
 | Due Date: |OCT 5th |
 | Status: | Complete |
 | Location: | https://github.com/Inverse1997/CS0Lab-DBooth/tree/main/conditionals/twostones|
-<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><>
 ## Assignment #6
 | Name | odditties |
 | --- | --- |
@@ -76,7 +76,7 @@
 | Due Date: | October 12th |
 | Status: | Complete |
 | Location: | https://github.com/Inverse1997/CS0Lab-DBooth/blob/main/odditites/odditites.py|
-<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><>
 ## Assignment #7
 | Name | Lists |
 | --- | --- |
@@ -85,7 +85,7 @@
 | Due Date: | October 19th |
 | Status: | Complete |
 | Location: | https://github.com/Inverse1997/CS0Lab-DBooth/blob/main/Pet/pet.py|
-<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><>
 ## Assignment #8
 | Name | Dictionaries |
 | --- | --- |
@@ -94,7 +94,7 @@
 | Due Date: | Nov. 2nd |
 | Status: | Complete |
 | Location: | |
-<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><>
 ## Assignment #9
 | Name | File.io|
 | --- | --- |
@@ -103,13 +103,22 @@
 | Due Date: | Nov. 16th |
 | Status: | Complete |
 | Location: ||
-<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><>
 ## Assignment #10
 | Name | file.io2 |
 | --- | --- |
 | Name: | Daniel Booth |
 | Description: | "fileio2" |
-| Due Date: | nov. 24 |
+| Due Date: | nov. 24th |
 | Status: | Complete |
 | Location: | |
-<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><><
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><>
+## Assignment #11
+| Name | oop |
+| --- | --- |
+| Name: | Daniel Booth |
+| Description: | "Classes" |
+| Due Date: | Dec. 8th |
+| Status: | Complete |
+| Location: | |
+<><><><>><><<>><><><><><><<><><<><><><><<><><>><><><><><><><><><><><><><>
